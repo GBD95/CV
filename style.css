@@ -1,0 +1,35 @@
+body{
+    background-color: #000000;
+}
+h1{
+    color: #F58840;
+    font-size: 50px;
+}
+h3{
+    color: #B85252;
+}
+p{
+    color: #EADEDE;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    color: #EADEDE;
+}
+ol{
+    color: #EADEDE; 
+}
+hr{
+    color: #B85252;
+    width: 30%;
+    border-style: dotted none none none;
+    border-width: 10px;
+}
+.table{
+    padding: 10px;
+    border-spacing: 20px;
+}
+.profile{
+    height: 200px;
+}
